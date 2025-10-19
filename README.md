@@ -5,16 +5,17 @@ Developed as part of a Java Backend Developer Case Study using Spring Boot 3 and
 
 🚀 Tech Stack
 
-Category	Technologies
-Language	Java 17
-Framework	Spring Boot 3.3
-Persistence	Spring Data JPA, H2 (In-memory Database)
-Security	Spring Security (Basic Auth)
-Validation	Jakarta Validation (@Valid, @NotBlank, etc.)
-Documentation	Springdoc OpenAPI 3 / Swagger UI
-Testing	JUnit 5, Mockito
-Build Tool	Maven
-Design Pattern	Strategy Pattern
+| Category | Technologies |
+|-----------|---------------|
+| **Language** | Java 17 |
+| **Framework** | Spring Boot 3.3 |
+| **Persistence** | Spring Data JPA, H2 (In-memory Database) |
+| **Security** | Spring Security (Basic Auth) |
+| **Validation** | Jakarta Validation (`@Valid`, `@NotBlank`, etc.) |
+| **Documentation** | Springdoc OpenAPI 3 / Swagger UI |
+| **Testing** | JUnit 5, Mockito |
+| **Build Tool** | Maven |
+| **Design Pattern** | Strategy Pattern |
 
 🧭 Project Overview
 

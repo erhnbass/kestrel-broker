@@ -8,7 +8,7 @@ Developed as part of a Java Backend Developer Case Study using Spring Boot 3 and
 | Category | Technologies |
 |-----------|---------------|
 | **Language** | Java 17 |
-| **Framework** | Spring Boot 3.3 |
+| **Framework** | Spring Boot 3 |
 | **Persistence** | Spring Data JPA, H2 (In-memory Database) |
 | **Security** | Spring Security (Basic Auth) |
 | **Validation** | Jakarta Validation (`@Valid`, `@NotBlank`, etc.) |
